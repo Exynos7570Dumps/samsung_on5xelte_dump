@@ -1,0 +1,18 @@
+## on5xeltejv-user 8.0.0 R16NW G570FXXS3CTF2 release-keys
+- Manufacturer: samsung
+- Platform: exynos5
+- Codename: on5xelte
+- Brand: samsung
+- Flavor: on5xeltejv-user
+- Release Version: 8.0.0
+- Id: R16NW
+- Incremental: G570FXXS3CTF2
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 320
+- Fingerprint: samsung/on5xeltejv/on5xelte:8.0.0/R16NW/G570FXXS3CTF2:user/release-keys
+- OTA version: 
+- Branch: on5xeltejv-user-8.0.0-R16NW-G570FXXS3CTF2-release-keys
+- Repo: samsung/on5xelte
